@@ -20,7 +20,7 @@ To assess how the tablet implementation impacted:
 | Chart | Focus | Link |
 |-------|-------|------|
 | 📊 Tablet navigation difficulty | UI usability by customers | [View](https://docs.google.com/spreadsheets/d/1ykBX8dbQAnXCY5ViaUzpITCgO278393WtakXG7W4mqE/edit?gid=1654711040#gid=1654711040) |
-| 📊 Order placement difficulty | Checkout experience via tablet | [View](https://docs.google.com/spreadsheets/d/1l1_YSu-U4fy2ohLu27_ZIWB7t5nRNm1AB9FgObOj-qk/edit?gid=1654711040#gid=1654711040) |
+| 📊 Operational KPI by Team | Checkout experience via tablet | [View](https://docs.google.com/spreadsheets/d/1l1_YSu-U4fy2ohLu27_ZIWB7t5nRNm1AB9FgObOj-qk/edit?gid=1654711040#gid=1654711040) |
 | 📈 Weekly satisfaction chart | Trend evolution (Week 1 to 4) | [View](https://docs.google.com/spreadsheets/d/1n24XQQ0E-lbZ47N833PgcJZESG3c94Bk1tdcO6um7hU/edit?usp=sharing) |
 | 📊 Technical issue chart | % of users with technical issues | [View](https://docs.google.com/spreadsheets/d/1CH06ABWm33kSCH-mCjfW53gjXKCI22gPx_LYX1-QxHg/edit?usp=sharing) |
 
